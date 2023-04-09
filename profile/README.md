@@ -16,7 +16,7 @@ Velora is the brainchild of a team of developers who have been working with both
 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/velora/Logos/whale.png?updatedAt=1681025301488" alt="Velora">
+  <img src="https://ik.imagekit.io/velora/Logos/bulma.png?updatedAt=1681079484314" alt="Velora">
 </p>
 
 
