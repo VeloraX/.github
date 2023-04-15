@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/velora/Logos/full-logo.png?updatedAt=1681025314030" alt="Velora Logo">
+  <img src="https://velora.site/public/images/logo-w715.png" alt="Velora Logo">
 </p> 
 
 
