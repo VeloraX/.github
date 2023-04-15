@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/velora/Logos/logo-w715.png?updatedAt=1681548658388" alt="Velora Logo">
+<img src="https://ik.imagekit.io/velora/Logos/veloraOrign.png?updatedAt=1681548658393" alt="" width="195" height="130" alt="Velora Logo" />
 </p> 
-
-
 
 Introducing Velora: A Powerful and Elegant Framework Uniting Bulma and Tailwind CSS
 Discover the origins of Velora, learn about its features, and explore how to harness its power in your projects
@@ -16,7 +14,7 @@ Velora is the brainchild of a team of developers who have been working with both
 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/velora/Logos/bulma.png?updatedAt=1681079484314" alt="Velora">
+  <img src="https://ik.imagekit.io/velora/Logos/whale_velora.png?updatedAt=1681548658684" alt="" width="312" height="208" alt="Velora">
 </p>
 
 
