@@ -20,15 +20,15 @@ Velora is the brainchild of a team of developers who have been working with both
 
 ## A Brief History of Velora
 
-Velora's journey began with Mikko, a passionate front-end developer who wholeheartedly believed in the potential of Bulma. Mikko had been a dedicated user of Materialize until 2020 when he noticed the Materialize community was declining. Eager to find a new and promising framework, Mikko discovered Bulma and instantly fell in love with its well-structured and semantic class names, which made it easy to create clean and organized HTML.
+Velora's journey began with Nolvus, a passionate front-end developer who wholeheartedly believed in the potential of Bulma. Nolvus had been a dedicated user of Materialize until 2020 when he noticed the Materialize community was declining. Eager to find a new and promising framework, Nolvus discovered Bulma and instantly fell in love with its well-structured and semantic class names, which made it easy to create clean and organized HTML.
 
-As Mikko continued to push the boundaries of web development with Bulma, he came across Tailwind CSS in 2022. Tailwind CSS offered unparalleled flexibility with its utility-first approach, allowing developers to quickly build custom designs without writing custom CSS. This groundbreaking approach piqued Mikko's interest and sparked a burning desire to combine the strengths of both frameworks into one cohesive solution.
+As Nolvus continued to push the boundaries of web development with Bulma, he came across Tailwind CSS in 2022. Tailwind CSS offered unparalleled flexibility with its utility-first approach, allowing developers to quickly build custom designs without writing custom CSS. This groundbreaking approach piqued Nolvus's interest and sparked a burning desire to combine the strengths of both frameworks into one cohesive solution.
 
-Despite their individual strengths, Mikko noticed that using both frameworks together often resulted in conflicts and inconsistencies. Determined to create a unified solution that would bring the best of both worlds while minimizing conflicts and maximizing productivity, Mikko embarked on an exciting and ambitious journey to create Velora.
+Despite their individual strengths, Nolvus noticed that using both frameworks together often resulted in conflicts and inconsistencies. Determined to create a unified solution that would bring the best of both worlds while minimizing conflicts and maximizing productivity, Nolvus embarked on an exciting and ambitious journey to create Velora.
 
-With unwavering dedication and meticulous attention to detail, Mikko handpicked and integrated the most useful and complementary features from Bulma and Tailwind CSS. Potential conflicts were carefully addressed, and the resulting framework was fine-tuned to ensure a smooth and efficient developer experience.
+With unwavering dedication and meticulous attention to detail, Nolvus handpicked and integrated the most useful and complementary features from Bulma and Tailwind CSS. Potential conflicts were carefully addressed, and the resulting framework was fine-tuned to ensure a smooth and efficient developer experience.
 
-Through Mikko's vision, perseverance, and relentless pursuit of excellence, Velora was born: a versatile, customizable, and easy-to-use framework that can take your web development projects to new heights. Velora is a shining testament to Mikko's passion for innovation and his commitment to sharing his inspiration and work with the world.
+Through Nolvus's vision, perseverance, and relentless pursuit of excellence, Velora was born: a versatile, customizable, and easy-to-use framework that can take your web development projects to new heights. Velora is a shining testament to Nolvus's passion for innovation and his commitment to sharing his inspiration and work with the world.
 
 ## What Velora Offers
 
@@ -108,4 +108,4 @@ In conclusion, Velora is a powerful and elegant framework that unites the best f
 
 Give Velora a try and unlock the potential of this innovative framework to elevate your web development projects. Happy coding!
 
-> Written in [Markdown](https://code.visualstudio.com/docs/languages/markdown) by Mikko & created with [Markdown editing with Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
+> Written in [Markdown](https://code.visualstudio.com/docs/languages/markdown) by Nolvus & created with [Markdown editing with Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
